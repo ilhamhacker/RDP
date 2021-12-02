@@ -1,4 +1,4 @@
-name: newupdate
+name: RDP
 
 on: workflow_dispatch
 
